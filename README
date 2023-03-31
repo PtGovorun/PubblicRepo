@@ -23,21 +23,3 @@ Description:
 			git log --numstat --author=apis72 | gawk -f ~/gitstatistics/stats.awk
 
 		d) Example of generated output.
-
-			Author: Alexey Pisanko <apis72@gmail.com>
-			Insertions: 136
-			Deletions: 0
-			Files changed: 1
-			Commits: 1
-
-Additional Information:
-
-	Copyright © 2010, Alexey Pisanko (apis72@gmail.com) All rights reserved.
-
-	License: GPL 3/LGPL 3
-
-	Software distributed under the License is distributed on an "AS IS" basis, WITHOUT WARRANTY OF ANY KIND, 
-	either express or implied. See the License for the specific language governing rights and limitations 
-	under the License.
-
-
